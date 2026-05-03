@@ -1,6 +1,6 @@
 # 📦 Image Upload Server
 
-A scalable image upload backend using Node.js, NGINX load balancer, and AWS S3 storage. No database required.
+A scalable image upload backend using Node.js, NGINX load balancer, and AWS S3 storage.
 
 ---
 
