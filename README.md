@@ -36,7 +36,7 @@ npm install
 ### 3. Create `.env` file
 AWS_ACCESS_KEY_ID=your-key-here
 AWS_SECRET_ACCESS_KEY=your-secret-here
-AWS_REGION=ap-south-1
+AWS_REGION=tyour-region
 S3_BUCKET_NAME=your-bucket-name
 
 ### 4. Install NGINX (Mac)
