@@ -88,7 +88,7 @@ return res.status(200).json({
     if (err.message.includes("Only JPG")) {
       return res.status(415).json({ error: err.message });
     }
-    return res.status(500).json({ error: "Internal server errors " });
+    return res.status(500).json({ error: "Internal server error" });
   }
 });
 
